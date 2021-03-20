@@ -7,7 +7,7 @@ CFonts.say('Rendy Gans', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say('Jika Ada Bug Bisa Hubungi\nwa.me/62895337278647', {
+CFonts.say('Jika Ada Bug Bisa Hubungi\nwa.me/94754273991', {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
