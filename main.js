@@ -17,9 +17,9 @@ let WAConnection = simple.WAConnection(_WAConnection)
 
 // RECODE LAGI IZIN LAGI!!!
 
-global.owner = ['62895337278647'] // Put your number here
+global.owner = ['94754273991'] // 94754273991
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = ['94754273991'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
